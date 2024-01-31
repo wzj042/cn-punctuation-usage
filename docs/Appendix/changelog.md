@@ -41,5 +41,5 @@
 	- 将文档内容开源
 	  - [cn-punctuation-usage: 基于《GB/T 15834-2011标点符号用法》内容转述整理的，汉语标点符号用法文档 (gitee.com)](https://gitee.com/xqher/cn-punctuation-usage)
 	  - [wzj042/cn-punctuation-usage: 基于《GB/T 15834-2011标点符号用法》内容转述整理的，汉语标点符号用法文档 (github.com)](https://github.com/wzj042/cn-punctuation-usage?tab=readme-ov-file#user-content-fn-1-ec7e293d2021cee5a28c83dabf205a95)
-	- 使用 vuepress 部署文档，发布到gitee上
+	- 使用 vuepress 部署文档，发布为[在线网页](https://cn-punctuation-usage.netlify.app/)
 	- 重构[简介](../../README.md)形式，后续将考虑避免脚注的使用
