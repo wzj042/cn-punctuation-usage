@@ -38,3 +38,11 @@
 
 
 
+当前文档的在线网页如下：
+
+[中文标点符号用法 ](https://cn-punctuation-usage.netlify.app/)
+
+原始markdown文件仓库如下：
+
+- [wzj042/cn-punctuation-usage: 基于《GB/T 15834-2011标点符号用法》内容转述整理的，汉语标点符号用法文档 (github.com)](https://github.com/wzj042/cn-punctuation-usage)
+- [cn-punctuation-usage: 基于《GB/T 15834-2011标点符号用法》内容转述整理的，汉语标点符号用法文档 (gitee.com)](https://gitee.com/xqher/cn-punctuation-usage)
