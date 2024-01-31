@@ -20,7 +20,19 @@
 
 
 [^1]:  辅助文字记录语言的符号，用于表示语句停顿、语气、以及标示语句成分的特定性质和作用。
+
+
+
 [^2]:  [标点符号用法_国家标准_GB/T 15834——2011](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
+
+
+
 [^3]:[中文技术文档的写作规范 - 阮一峰的网络日志 (ruanyifeng.com)](https://www.ruanyifeng.com/blog/2016/10/document_style_guide.html)
+
+
+
 [^4]: 包括汉语和外语混合排版时的汉语部分。
+
+
+
 [^5]: [如何学好现代语文？](https://www.zhihu.com/question/446716137/answer/1757919159)
