@@ -12,7 +12,7 @@
 - [句子](../Appendix/glossary.md#句子)
 - [复句和分句](../Appendix/glossary.md#复句和分句)
 
-紧接着你可以从了解标点符号种类开始，然后学习标点符号用法，最后了解标点符号的位置问题。
+紧接着你可以从了解[标点符号种类](../Basics/type-of-punctuation.md)开始，然后学习[标点符号用法](../Basics/meaning-form-usage.md)，最后再了解[标点符号的位置和书写形式](../Basics/loc-and-writing-of-punctuation.md)。
 
 
 
