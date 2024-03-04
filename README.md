@@ -34,7 +34,7 @@
 
 
 
-这里有一篇文章 [如何学好现代语文？](ttps://www.zhihu.com/question/446716137/answer/1757919159)，推荐有提升语文能力意愿的读者学习。
+这里有一篇文章 [如何学好现代语文？](https://www.zhihu.com/question/446716137/answer/1757919159)，推荐有提升语文能力意愿的读者学习。
 
 读者若在阅读文档中遇到的困难、疑惑，可以选择参考[常见问题](./docs/faq.md)、[术语和定义](./docs/Appendix/glossary.md)、[使用示例](./docs/Appendix/recipes.md)、[向作者反馈](./docs/Appendix/feedback.md)或自行在网络中搜索的方式尝试解决。
 
